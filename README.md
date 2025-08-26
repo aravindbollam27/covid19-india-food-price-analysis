@@ -14,13 +14,13 @@ It is organized for clarity and easy execution.
 ## 📁 Project Structure
 ```
 project-/
-|- src/                # Python code
-├─ data/               # Datasets (small/sample data only)
-├─ notebooks/          # Final Reports 
-├─ requirements.txt    # Python dependencies
+|- data                # Datasets (small/sample data only)
+├─ notebooks           # Final Reports     
+├─ src                 # Python Code (Jupyter Notebook)
 ├─ .gitignore          # Files/folders excluded from version control
 ├─ LICENSE             # Project license
 └─ README.md           # This file
+├─ requirements.txt    # Python dependencies 
 ```
 
 ## 🚀 Features
