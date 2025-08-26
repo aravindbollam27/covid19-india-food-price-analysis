@@ -34,7 +34,7 @@ project-/
 ### 1) Clone the repository
 ```bash
 git clone https://github.com/aravindbollam27/covid19-india-food-price-analysis.git
-cd covid19-india-food-price-analysis.git
+cd covid19-india-food-price-analysis
 ```
 
 ### 2) Create & activate a virtual environment (recommended)
