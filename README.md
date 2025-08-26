@@ -7,7 +7,7 @@ It includes data analysis, visualizations, and insights.
 - Data preprocessing and cleaning
 - Exploratory data analysis
 - Visualizations of food price trends
-- Predictive modeling (if included)
+
     
 It is organized for clarity and easy execution.
 
@@ -25,16 +25,16 @@ project-/
 
 ## 🚀 Features
 - Clean, reproducible structure
-- All code under `src/`
+- All code under `src`
 
-- Sample data under `data/`
+- Sample data under `data`
 
 ## 🛠️ Setup
 
 ### 1) Clone the repository
 ```bash
-git clone https://github.com/username/ra-submission-aravind.git
-cd ra-submission-aravind
+git clone https://github.com/aravindbollam27/covid19-india-food-price-analysis.git
+cd covid19-india-food-price-analysis.git
 ```
 
 ### 2) Create & activate a virtual environment (recommended)
@@ -49,23 +49,19 @@ pip install -r requirements.txt
 ```
 
 ## ▶️ Usage
-Run the primary entry point (update the filename if different):
+Run the primary entry point:
 ```bash
-python src/main.py
+python src/Scraping and Other Codes.ipynb
 ```
 
 If you use notebooks, start Jupyter:
 ```bash
-jupyter notebook notebooks/
+jupyter notebook notebooks
 ```
 
 ## 📊 Data
-- Place small/sample datasets in `data/`.  
-- For large datasets, add a note here explaining how to obtain them (URL, drive link, etc.), and **avoid committing large files**.
+- Placed small/sample datasets in `data`.  
 
-## 🧪 Reproducibility
-- Set a random seed where applicable.
-- Keep raw data immutable; write outputs to a separate folder if needed (e.g., `outputs/`).
 
 ## 🔁 How to Upload / Update on GitHub
 ```bash
@@ -73,7 +69,7 @@ git init
 git add .
 git commit -m "Initial project upload"
 git branch -M main
-git remote add origin https://github.com/username/ra-submission-aravind.git
+git remote add origin https://github.com/aravindbollam27/covid19-india-food-price-analysis.git
 git push -u origin main
 ```
 
