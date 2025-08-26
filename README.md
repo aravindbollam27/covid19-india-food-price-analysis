@@ -13,8 +13,7 @@ It is organized for clarity and easy execution.
 
 ## 📁 Project Structure
 ```
-project-root/
-├─ src/                # Source code (Python scripts, utils, entry points)
+project-/
 ├─ data/               # Datasets (small/sample data only)
 ├─ notebooks/          # Jupyter notebooks for EDA and experiments
 ├─ requirements.txt    # Python dependencies
