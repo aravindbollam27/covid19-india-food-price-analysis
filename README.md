@@ -14,8 +14,9 @@ It is organized for clarity and easy execution.
 ## 📁 Project Structure
 ```
 project-/
+|- src/                # Python code
 ├─ data/               # Datasets (small/sample data only)
-├─ notebooks/          # Jupyter notebooks for EDA and experiments
+├─ notebooks/          # Final Reports 
 ├─ requirements.txt    # Python dependencies
 ├─ .gitignore          # Files/folders excluded from version control
 ├─ LICENSE             # Project license
